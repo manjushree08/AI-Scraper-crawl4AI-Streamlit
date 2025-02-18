@@ -2,7 +2,7 @@
 
 AI-Scraper-crawl4AI is a web scraping application built with Streamlit and Crawl4AI. It allows users to input a URL, scrape the content of the webpage, and download the scraped content as a Markdown file.
 
-![Application Screenshot]("crawl4AI.png")
+ <img src="crawl4AI.png" alt="Application Screenshot" width="600"/>
 
 ## Features
 
